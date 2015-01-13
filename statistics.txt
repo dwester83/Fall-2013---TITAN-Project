@@ -1,0 +1,24 @@
+Expected number of retransmissions: 0.25
+Total time taken: 64304979000 nanoseconds.
+Total datagrams generated: 228
+Total datagrams transmitted: 358
+Total retransmissions: 130
+Max retransmissions of a single packet: 7
+Percent retransmission: 36.312849162011176
+
+Expected number of retransmissions: 0.25
+Total time taken: 74582998000 nanoseconds.
+Total datagrams generated: 229
+Total datagrams transmitted: 346
+Total retransmissions: 117
+Max retransmissions of a single packet: 6
+Percent retransmission: 33.81502890173411
+
+Expected number of retransmissions: 0.11111111111111112
+Total time taken: 48434012000 nanoseconds.
+Total datagrams generated: 229
+Total datagrams transmitted: 296
+Total retransmissions: 67
+Max retransmissions of a single packet: 4
+Percent retransmission: 22.635135135135133
+
